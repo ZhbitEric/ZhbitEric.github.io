@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-16T14:44:31.706Z</updated>
+  <updated>2019-05-19T14:36:24.322Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,26 +17,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first blog</title>
+    <title>中华田园蟹的博客之路</title>
     <link href="http://yoursite.com/2019/05/16/first-blog/"/>
     <id>http://yoursite.com/2019/05/16/first-blog/</id>
     <published>2019-05-16T14:38:16.000Z</published>
-    <updated>2019-05-16T14:44:31.706Z</updated>
+    <updated>2019-05-19T14:36:24.322Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="勿在浮沙筑高台"><a href="#勿在浮沙筑高台" class="headerlink" title="勿在浮沙筑高台"></a><strong>勿在浮沙筑高台</strong></h1><p>​    中华田园蟹的博客之路。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="勿在浮沙筑高台"><a href="#勿在浮沙筑高台" class="headerlink" title="勿在浮沙筑高台"></a><strong>勿在浮沙筑高台</strong></h1><p>​        中华田园蟹的博客之路。</p><p>​        毕业两年，又经历一番面试，顿感自身知识过于匮乏。想要在一个行业深耕前行，必须在平时多积累，否则必将被时代所抛弃。有感于此，故开此博客记平日之所惑，积工作之所获，录闲时之所学。</p><p>​        少年无奇才，唯恒心尔。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;勿在浮沙筑高台&quot;&gt;&lt;a href=&quot;#勿在浮沙筑高台&quot; class=&quot;headerlink&quot; title=&quot;勿在浮沙筑高台&quot;&gt;&lt;/a&gt;&lt;strong&gt;勿在浮沙筑高台&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;​    中华田园蟹的博客之路。&lt;/p&gt;
-
+        &lt;h1 id=&quot;勿在浮沙筑高台&quot;&gt;&lt;a href=&quot;#勿在浮沙筑高台&quot; class=&quot;headerlink&quot; title=&quot;勿在浮沙筑高台&quot;&gt;&lt;/a&gt;&lt;strong&gt;勿在浮沙筑高台&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;​        中华田园蟹的博客之路。&lt;/p&gt;
+&lt;p&gt;​    
       
     
     </summary>
     
+      <category term="随记" scheme="http://yoursite.com/categories/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="我的博客之路" scheme="http://yoursite.com/tags/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/"/>
+    
+      <category term="随记" scheme="http://yoursite.com/tags/%E9%9A%8F%E8%AE%B0/"/>
     
   </entry>
   
